@@ -1,0 +1,6 @@
+{
+"nombre":"Marco Morales",
+"apellido":"Morales Rueda",
+"municipio":"Riosucio",
+"departamento":"Chocó" 
+}
